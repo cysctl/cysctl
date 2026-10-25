@@ -1,8 +1,7 @@
 Physics & Mathematics @ Ankara University
 
-Computational physics, cryptology, systems programming, and security tooling.
+Interested in quantum computation, cryptology, and computational methods.
 
-I build small, efficient tools for simulation, data processing, and network analysis.
+Working at the intersection of theory and computation.
 
-GitLab: https://gitlab.com/cysctl <br />
-Gist: https://gist.github.com/cysctl
+Personal website: https://enesb.net
